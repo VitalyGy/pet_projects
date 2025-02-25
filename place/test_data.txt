@@ -1,0 +1,5 @@
+room:
+Coordinates: (48, 55, 149, 165)
+Coordinates: (242, 26, 379, 168)
+Coordinates: (148, 55, 242, 163)
+Coordinates: (46, 246, 148, 389)
